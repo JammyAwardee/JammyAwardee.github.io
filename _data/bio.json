@@ -16,8 +16,9 @@
     ]
   },
   "interests": [
-    { "name": "Coding" },
     { "name": "Arithmetic Problem Solving" },
+    { "name": "Basketball" },
+    { "name": "Coding" },
     { "name": "Game Development" },
     { "name": "Web Designing" }
   ],
