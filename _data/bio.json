@@ -1,0 +1,74 @@
+{
+  "basics": {
+    "name": "Jamesh Rembrandt Serrano",
+    "label": "Student",
+    "picture": "https://github.com/JammyAwardee.png",
+    "email": "jamesh.serrano@gmail.com",
+    "phone": "0966-285-7463",
+    "website": "https://JammyAwardee.github.io",
+    "summary": "I am studying for completion certificate for Web Development at KodeGo Bootcamp. I expect to graduate in Feb 2023.",
+    "location": { "address": "13 Jeremiah St. Ph. 3D LVDSN", "postalCode": "3020", "city": "Meycauayan", "countryCode": "Philippines", "region": "3" },
+    "profiles": [
+      { "network": "github", "username": "JammyAwardee", "url": "http://github.com/JammyAwardee.github.io" },
+      { "network": "facebook", "username": "Jamesh Serrano", "url": "https://www.facebook.com/JammyAwardeee" },
+      { "network": "twitter", "username": "@JammyAwardee", "url": "https://twitter.com/JammyAwardee" },
+      { "network": "instagram", "username": "winternabong", "url": "https://www.instagram.com/winternabong/" }
+    ]
+  },
+  "interests": [
+    { "name": "Arithmetic Problem Solving" },
+    { "name": "Basketball" },
+    { "name": "Coding" },
+    { "name": "Game Development" },
+    { "name": "Web Designing" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "Javascript", ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Git/GitHub", ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KodeGo Bootcamp",
+      "area": "Full-Stack Web Development",
+      "studyType": "Certificate Course",
+      "startDate": "2022-10-28",
+      "endDate": "Present",
+    }
+  ],
+  "work": [
+    {
+      "position": "HTML and CSS Developer",
+      "startDate": "2022-08-01",
+      "endDate": "2022-10-15",
+      "summary": "Assistant HTML and CSS Developer to a freelance agent",
+      "highlights": [
+        "Create and edit simple projects for different clients"
+      ]
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "The Church of Jesus Christ of Latter-Day Saints",
+      "website": "https://www.churchofjesuschrist.org/?lang=eng",
+      "position": "Full-Time Missionary",
+      "startDate": "2019-05-31",
+      "endDate": "2021-06-04",
+      "summary": "Served as a Full-Time Missionary; Taught the word of God to other people for 2 full years",
+      "highlights": [
+        "Learned a new language to be able to teach at a foreign land",
+        "Taught and interacted with people and was able to develop good communication and PR skills"
+      ]
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
